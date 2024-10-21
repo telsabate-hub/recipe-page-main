@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Recipe Page Solution](https://github.com/telsabate-hub/recipe-page-main)
-- Live Site URL: [Recipe Page](https://your-live-site-url.com)
+- Live Site URL: [Recipe Page](https://telsabate-hub.github.io/recipe-page-main/)
 
 ## My process
 
